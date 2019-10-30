@@ -1,5 +1,6 @@
 # docker-flask-hello-world
-Simplest flask app you can build with docker!
+
+Docker is powerful. Docker has a learning curve. Docker is a giant whale with a shipping container backpack. Start off small and build up with the simplest flask app you can make with docker! This example walks through setting up a dockerfile, organizing your container and packaing your app. Good luck!
 
 ## Build...
 From the directory containing this `Dockerfile` run:
